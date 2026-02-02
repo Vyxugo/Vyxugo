@@ -4,11 +4,11 @@
 
 ## I'm a agricultural engineer
 
-- 👨‍🔬 Actualmente trabajo como asistente de investigación en proyectos orientados a la conservación de la biodiversidad, participando en la recolección de datos en campo y en su organización para fines científicos.
+- 👨‍🔬 I currently work as a research assistant on projects focused on biodiversity conservation, participating in field data collection and in the organization of data for scientific purposes.
 
-- 💻 Utilizo herramientas como R para el análisis estadístico y Git y GitHub para el control de versiones y la gestión de proyectos de investigación.
+- 💻 I use tools such as R for statistical analysis and Git and GitHub for version control and research project management.
 
-- 📚 Aprendo programación de manera autodidacta, enfocada en el análisis de datos y el apoyo a procesos científicos.
+- 📚 I am self-learning programming, focusing on data analysis and supporting scientific research processes.
 ---
 
 ##### Languages I use
