@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a agricultural engineer
+## I'm a agronomist
 
 - 👨‍🔬 I currently work as a research assistant on projects focused on biodiversity conservation, participating in field data collection and in the organization of data for scientific purposes.
 
